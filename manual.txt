@@ -1,0 +1,9 @@
+Diamond Quest Controls:
+M: Magnifying Glass
+R: Rhombus
+L: Telescope
+S: Shadows
+U: Manual
+
+Num Keys: 1 - 6 Suits
+

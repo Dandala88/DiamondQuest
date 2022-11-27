@@ -1,0 +1,34 @@
+These commands change your nickname and password...
+	/nick nickname - change nick to nickname
+	/pass password - change pass to password
+	/alt_nick nickname - change alt nick to nickname
+	/alt_pass password - change alt pass to password
+
+These commands will connect/disconnect/reconnect you...
+	/server irc.esper.net:6999 - connect to irc.esper.net port 6999
+	/reconnect - reconnect to the current server
+	/disconnect - disconnect from the current server
+
+These commands can only be done when you are connected...
+	/join #channel - try to join #channel
+	/part #channel - leave #channel
+	/dns address - resolve ip of address
+	/ctcp ... - nothing yet
+
+These commands can be done when you are talking to people...
+	/notice nickname Your message here - send a notice to nickname
+	/msg nickname Your message here - send a message to nickname
+	/me does something - tell people you're doing something
+	/say /me says something - show others how to do a command
+
+These commands can only be done when you have ops...
+	/kick #channel nickname - kick nickname out of #channel
+	/op #channel nickname - give nickname operator status on #channel
+	/deop #channel nickname - take operator status from nickname on #channel
+
+These commands can be done at any time...
+	/echo some text - show some text only on your screen
+	/clear - clear the screen
+	/debug - show some debug messages
+	/help - show this help message
+	
